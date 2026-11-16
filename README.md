@@ -7,9 +7,8 @@
 |---|---|---|
 | 01 About | `content/about.js` | 자기소개, 학력, 경력, 연락처 |
 | 02 AI-Generated Reports | `content/reports.js` | 이마트 재무제표 분석, 대시보드 링크 |
-| 03 Curated Readings | `content/readings.js` | 독서·논문 큐레이션 (추후 추가) |
-| 04 Research & Activities | `content/activities.js` | 코너스톤, CPR 경진대회, 수상, 서포터즈, 봉사 |
-| 05 Certifications & Qualifications | `content/certifications.js` | CS Leaders, 운전면허, Coursera AI 윤리 |
+| 03 Research & Activities | `content/activities.js` | 코너스톤, CPR 경진대회, 수상, 서포터즈, 봉사 |
+| 04 Certifications & Qualifications | `content/certifications.js` | CS Leaders, 운전면허, Coursera AI 윤리 |
 
 ## 파일과 유지보수
 - `index.html`: 메뉴, 메인 비주얼 및 레이아웃
